@@ -1,7 +1,7 @@
 
 # About me
 
-I'm a high school student interested in AI, Machine Learning, and Data Science. I enjoy building AI solutions to real-world problems, with a particular interest in the intersection of technology and filmmaking.
+I'm a high school student interested in AI, Machine Learning, and Data Science. I enjoy building AI solutions to real-world problems.
 
 ## My projects:
 
